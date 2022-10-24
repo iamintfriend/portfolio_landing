@@ -1,0 +1,6 @@
+// Override imported Bootstrap 5 here
+$primary: #ffcd39;
+$body-bg: #fff;
+
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "bootstrap";
