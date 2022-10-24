@@ -8,7 +8,7 @@ Description:
 
 * Gems: bootstrap, node, execjs
 
-* Database SQLite3
+* Database: SQLite3
 
 * Database initialization: False
 
